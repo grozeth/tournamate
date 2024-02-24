@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+  <title>Tourney-M8</title>
+</head>
+<body>
+    <header>
+      <h1>Tourney-M8</h1>
+    </header>
+    <section>
+      <h2>Tournaments</h2>
+      <div hx-get="/tournaments" hx-trigger="load" class="tournaments"></div>
+    </section>
+    <section>
+      <h2>Players</h2>
+      <div hx-get="/players" hx-trigger="load" class="players"></div>
+    </section>
+    <section>
+      <h2>Matches</h2>
+      <div hx-get="/matches" hx-trigger="load" class="matches"></div>
+    </section>
+    <footer>
+
+    </footer>
+</body>

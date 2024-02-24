@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": 1,
+        "name": "Mock Tournament 1",
+        "status": "completed",
+        "participants": [1, 2, 3]
+    },
+    {
+        "id": 2,
+        "name": "Mock Tournament 2",
+        "status": "ongoing",
+        "participants": [1, 2, 5]
+    },
+    {
+        "id": 3,
+        "name": "Mock Tournament 3",
+        "status": "cancelled",
+        "participants": [2, 4, 5]
+    },
+    {
+        "id": 4,
+        "name": "Mock Tournament 4",
+        "status": "upcoming",
+        "participants": [1, 2, 3, 4, 5]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "tournament_id": 1,
+        "home_team": 1,
+        "visitor_team": 2,
+        "status": "complete",
+        "home_score": 3,
+        "visitor_score": 1,
+        "winner": 1
+    },
+    {
+        "id": 2,
+        "tournament_id": 1,
+        "home_team": 3,
+        "visitor_team": 1,
+        "status": "complete",
+        "home_score": 1,
+        "visitor_score": 5,
+        "winner": 1
+    },
+    {
+        "id": 3,
+        "tournament_id": 1,
+        "home_team": 2,
+        "visitor_team": 3,
+        "status": "complete",
+        "home_score": 3,
+        "visitor_score": 3,
+        "winner": null
+    },
+    {
+        "id": 4,
+        "tournament_id": 1,
+        "home_team": 1,
+        "visitor_team": 2,
+        "status": "complete",
+        "home_score": 2,
+        "visitor_score": 1,
+        "winner": 1
+    },
+    {
+        "id": 5,
+        "tournament_id": 1,
+        "home_team": 3,
+        "visitor_team": 1,
+        "status": "complete",
+        "home_score": 2,
+        "visitor_score": 5,
+        "winner": 1
+    },
+    {
+        "id": 6,
+        "tournament_id": 1,
+        "home_team": 2,
+        "visitor_team": 3,
+        "status": "complete",
+        "home_score": 1,
+        "visitor_score": 0,
+        "winner": 2
+    }
+]

@@ -1,0 +1,5 @@
+{% for match in matches %}
+<li class="match">
+    {{ match.home_team }} ja {{ match.visitor_team }} tappeli, {{ match.winner }} voitti {{ match.home_score }}-{{ match.visitor_score }}.
+</li>
+{% endfor %}

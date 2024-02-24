@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Pelaaja 1",
+        "games_played": 10,
+        "wins": 9,
+        "losses": 0,
+        "ties": 1
+    },
+    {
+        "id": 2,
+        "name": "Pelaaja 2",
+        "games_played": 10,
+        "wins": 1,
+        "losses": 8,
+        "ties": 1
+    }
+    ,
+    {
+        "id": 3,
+        "name": "Pelaaja 3",
+        "games_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Pelaaja 4",
+        "games_played": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+    }
+    ,
+    {
+        "id": 5,
+        "name": "Pelaaja 5",
+        "games_played": 5,
+        "wins": 3,
+        "losses": 1,
+        "ties": 1
+    }
+]
